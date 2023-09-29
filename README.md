@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+| ![Image](https://github.com/taufiqsejati/Taufiqsejati_Table_Calendar/table_calendar_styles.gif) | ![Image](https://github.com/taufiqsejati/Taufiqsejati_Table_Calendar/table_calendar_builders.gif) |
+| :---------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+|                              **TableCalendar** with custom styles                               |                              **TableCalendar** with custom builders                               |
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
